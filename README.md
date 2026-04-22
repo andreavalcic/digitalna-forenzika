@@ -22,7 +22,7 @@ Tema se bavi istraživanjem tehnike steganografije korišćenjem QR kodova, anal
       * python3 -m venv venv
 3. **Aktivirati virtuelno okruženje:**
       * source venv/bin/activate
-4. **Instalirati neophodne Python biblioteke
+4. **Instalirati neophodne Python biblioteke**
       * qrcode
       * pillow
       * numpy
